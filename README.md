@@ -1,5 +1,4 @@
-# heuristic-solver
-## Mini-SHRDLU  
+# heuristic-solver  
 SHRDLU was created in the late 1960s by Terry Wingrad. It was used to demonstrate how AI technologies could be used in natural language processing.   
 Mini-SHRDLU was inspired by SHRDLU, it is a game designed by Google deepmind for testing for their AI algorithms.  
   * This version of the game contains 6 numbered blocks(1-6) on a 3x3 board.   
